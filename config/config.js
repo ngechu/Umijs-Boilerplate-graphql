@@ -12,7 +12,7 @@ export default defineConfig({
     hmr: true,
   },
   define: {
-    BASE_URL: 'https://api-gpg-dev.k8s.tracom.co.ke:2021',
+    BASE_URL: 'Add your Base Url Here ',
   },
   layout: {
     // https://umijs.org/zh-CN/plugins/plugin-layout
